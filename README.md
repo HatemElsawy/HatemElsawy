@@ -95,10 +95,11 @@
     <img src="https://img.shields.io/badge/ajax-%232C2D72.svg?style=for-the-badge&logo=ajax&logoColor=white"
         alt="AJAX" style="max-width: 100%;"></a>
 
-<!-- OOP -->
-<a href="https://en.wikipedia.org/wiki/Object-oriented_programming" title="OOP" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/oop-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-        alt="OOP" style="max-width: 100%;"></a>
+<!-- PHP OOP -->
+<a href="https://www.php.net/manual/en/language.oop5.php" title="PHP OOP" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/PHP_OOP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
+        alt="PHP OOP" style="max-width: 100%;">
+</a>
 
 <!-- API -->
 <a href="https://en.wikipedia.org/wiki/API" title="API" target="_blank" rel="nofollow">
@@ -136,16 +137,6 @@
 <div class="markdown-heading" dir="auto">
  
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <!-- PHP GIF Button -->
-<a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
-  <img src="https://media.giphy.com/media/jnDK9gldyTKnK/giphy.gif" width="100" alt="PHP">
-</a>
-
-<!-- Laravel GIF Button -->
-<a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://media.giphy.com/media/3oKIPz1eBZqbgzXNDS/giphy.gif" width="100" alt="Laravel">
-</a>
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
