@@ -127,6 +127,12 @@
   <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
         alt="Visual Studio" style="max-width: 100%;"></a>
+<a href="https://deepseek.com/" title="DeepSeek" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/DeepSeek-%230075FF.svg?style=for-the-badge&logo=deepseek&logoColor=white"
+        alt="DeepSeek" style="max-width: 100%;"></a>
+<a href="https://chat.openai.com/" title="ChatGPT" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/ChatGPT-%2342A5F5.svg?style=for-the-badge&logo=openai&logoColor=white"
+        alt="ChatGPT" style="max-width: 100%;"></a>
     <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"
             alt="Illustrator" style="max-width: 100%;"></a>
